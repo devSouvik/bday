@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(37, 37, 37);
+}
+
 .css-typing p {
   border-right: 0.15em solid orange;
   font-family: "Courier";
